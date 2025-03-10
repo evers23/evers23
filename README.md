@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy **Ever Salinas** 🚀
+# 👋 ¡Hola! Soy **Ever Salinas** 
 
 **🎓 Ingeniero Informático** & **💻 Full-Stack Developer**  
 🌍 **Santiago, Chile** | Trabajando desde cualquier parte del mundo.  
