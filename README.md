@@ -35,14 +35,38 @@ En mis repositorios encontrarás proyectos en los que he trabajado optimizando p
 ---
 
 ### ⚡ Tecnologías que uso  
-- **Frontend:** React, Vue.js, HTML, CSS, JavaScript  
-- **Backend:** Node.js, Express, Laravel, PHP, **Spring Boot**  
-- **Lenguajes:** JavaScript, PHP, **Python**, Java  
-- **Bases de Datos:** PostgreSQL, MySQL  
-- **Otros:** Git, Docker, Scrum, Testing (Jest, Supertest)  
 
+<!-- Lenguajes -->
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+<img align="left" alt="PHP" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+
+<!-- Frontend -->
+<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+<img align="left" alt="Vue.js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
+<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+
+<!-- Backend -->
+<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Express" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
+<img align="left" alt="Laravel" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" />
+<img align="left" alt="Spring Boot" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
+
+<!-- Bases de Datos -->
+<img align="left" alt="PostgreSQL" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+
+<!-- Otros -->
+<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+<img align="left" alt="GitLab" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" />
+<img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+
+<br />
+<br />
 ---
-
 ### 📊 Mis estadísticas en GitHub  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evers23&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evers23&layout=compact&theme=radical)  
