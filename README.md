@@ -1,4 +1,4 @@
-## <img src="https://github.com/evers23/hello.gif" width="40px"> ¡Hola! Soy **Ever Salinas**  
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> ¡Hola! Soy **Ever Salinas**
 
 ### 👨‍💻 Ingeniero Informático | Desarrollador Full Stack  
 
