@@ -51,7 +51,7 @@ En mis repositorios encontrarás proyectos en los que he trabajado optimizando p
 <!-- Backend -->
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Express" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
-<img align="left" alt="Laravel" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" />
+<img align="left" alt="Laravel" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" />
 <img align="left" alt="Spring Boot" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
 
 <!-- Bases de Datos -->
@@ -67,7 +67,6 @@ En mis repositorios encontrarás proyectos en los que he trabajado optimizando p
 <br />
 <br />
 ---
-
 ### 📊 Mis estadísticas en GitHub  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evers23&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evers23&layout=compact&theme=radical)  
