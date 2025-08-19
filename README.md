@@ -58,19 +58,26 @@ En mis repositorios encontrarás proyectos en los que he trabajado optimizando p
 <img align="left" alt="PostgreSQL" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
 
-<!-- Otros -->
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
-<img align="left" alt="GitLab" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" />
-<img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
 
-<br />
-<br />
+<!-- Otros -->
+<p>
+  <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+  &nbsp;
+  <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+  &nbsp;
+  <img align="left" alt="GitLab" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" />
+  &nbsp;
+  <img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+</p>
+
+<br clear="left"/>
+<br/>
+
 ---
+
 ### 📊 Mis estadísticas en GitHub  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evers23&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evers23&layout=compact&theme=radical)  
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evers23&layout=compact&theme=radical)
 
 
 
